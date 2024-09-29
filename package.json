@@ -10,8 +10,9 @@
   "author": "juliariec",
   "license": "ISC",
   "dependencies": {
-    "@notionhq/client": "^0.4.13",
-    "better-sqlite3": "^11.1.2",
-    "dotenv": "^10.0.0"
+    "@notionhq/client": "^2.2.15",
+    "better-sqlite3": "^11.2.1",
+    "dotenv": "^10.0.0",
+    "uuid": "^10.0.0"
   }
 }
